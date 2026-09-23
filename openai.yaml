@@ -1,0 +1,4 @@
+interface:
+  display_name: "会议纪要与转写稿"
+  short_description: "将会议录音整理为含自动目录的 Word 纪要和可追溯的采访式转写稿"
+  default_prompt: "使用 $meeting-minutes 处理这份会议录音，生成 Word 会议纪要和轻度整理的 Word 转写稿。"
